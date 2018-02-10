@@ -1,7 +1,4 @@
 
-**Notice:** This repository is not operated or maintained by [/u/deepfakes](https://www.reddit.com/user/deepfakes/). Please read the explanation below for details.
-
----
 
 # deepfakes_faceswap
 
@@ -111,3 +108,7 @@ Here's a slightly more in depth video that tries to explain the basic functionin
 [![How Machines Learn](https://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
 
 tl;dr: training data + trial and error
+
+**Notice:** This repository is not operated or maintained by [/u/deepfakes](https://www.reddit.com/user/deepfakes/). Please read the explanation for details.
+
+---
